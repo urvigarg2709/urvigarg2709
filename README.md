@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Engineering Student</h3>
 <img align="right" aly="coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 - 🤠 She/HER<br>
-- 📕 Currently, I am studying Electronic engineering.<br>
+- 📕 Currently, I am studying Electronic And Communication engineering.<br>
 - 🌱 I’m currently learning Web Development,UI-UX<br>
 - 📫 How to reach me urvigarg27@gmailcom<br>
 - 📄 Know about my experiences (https://www.linkedin.com/in/urvi-garg-071a8b248)
